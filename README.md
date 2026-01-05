@@ -1,3 +1,3 @@
-#PRUEBA
+PRUEBA
 
 Usando git
